@@ -1,4 +1,4 @@
-### Oi! Meu nome é Luara Lima Oliveira
+### Oi! Meu nome é Luara Lima Oliveira!
   
   <div align="center">
   <a href="https://github.com/luluoliv">
