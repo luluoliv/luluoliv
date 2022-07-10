@@ -1,4 +1,4 @@
-### hi! my name is luara and i'm student and i'm learning to code.
+### hi! my name is Luara, you can call me lulu. i'm student and i'm learning to code.
   
   <div align="center">
   <a href="https://github.com/luluoliv">
