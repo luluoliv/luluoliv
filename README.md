@@ -1,6 +1,7 @@
 <h1>Olá! Sou Luara Lima...</h1>
 <h3>Conheça um pouco sobre mim:</h3>
    📖 Cursando Ensino Médio
+   ##
    📖 Cursando Desenvolvimento de Sistemas
   
   <div align="center">
