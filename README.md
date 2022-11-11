@@ -1,4 +1,6 @@
-##Olá! Sou Luara Lima
+###Olá! Sou Luara Lima
+<br>
+
 📖 Cursando Desenvolvimento de Sistemas
   
   <div align="center">
