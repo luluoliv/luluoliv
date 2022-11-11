@@ -1,9 +1,8 @@
-# Olá! Sou Luara Lima...
-## 📌  Conheça um pouco sobre mim:</h3>
-
+## Olá! Sou Luara Lima...
+📌  Conheça um pouco sobre mim:</h3>
     
-#### ◌ 📕 Cursando Ensino Médio
-#### ◌ 📖 Cursando Desenvolvimento de Sistemas
+ ◌ 📕 Cursando Ensino Médio
+ ◌ 📖 Cursando Desenvolvimento de Sistemas
    
 ##
   
