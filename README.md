@@ -1,5 +1,6 @@
-<h1>Olá! Sou Luara Lima</h1>
-<br>
+<h1>Olá! Sou Luara Lima...</h1>
+<br> 
+<h4>Conheça um pouco sobre mim:</h4>
 
 📖 Cursando Desenvolvimento de Sistemas
   
