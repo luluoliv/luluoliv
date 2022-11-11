@@ -5,7 +5,7 @@ Conheça um pouco sobre mim:
  - 🏷 Pronomes: Ela/Dela
  - 📕 Cursando Ensino Médio
  - 🖥 Cursando Desenvolvimento de Sistemas
- - 📞 luaralima205@gmail.com
+ - 📞 Contato: luaralima205@gmail.com
    
   <div align="center">
   <a href="https://github.com/luluoliv">
