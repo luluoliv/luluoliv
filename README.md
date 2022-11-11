@@ -2,8 +2,8 @@
 <h3>Conheça um pouco sobre mim:</h3>
 
    
-   #◌ 📕 Cursando Ensino Médio
-   #◌ 📖 Cursando Desenvolvimento de Sistemas
+   ◌ 📕 Cursando Ensino Médio
+   ◌ 📖 Cursando Desenvolvimento de Sistemas
    
    
   
