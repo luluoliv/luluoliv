@@ -1,4 +1,5 @@
-### hi! my name is Luara, you can call me lulu. i'm student and i'm learning to code.
+
+📖 Cursando Desenvolvimento de Sistemas
   
   <div align="center">
   <a href="https://github.com/luluoliv">
