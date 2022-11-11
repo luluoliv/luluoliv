@@ -1,4 +1,4 @@
-### Olá! Sou Luara Lima...
+### Olá! Sou Luara Lima... 💡
  
 Conheça um pouco sobre mim:
 
