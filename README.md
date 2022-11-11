@@ -1,10 +1,9 @@
 ### Olá! Sou Luara Lima...
  
-Conheça um pouco sobre mim:< 
+Conheça um pouco sobre mim:
  - 📕 Cursando Ensino Médio
  - 📖 Cursando Desenvolvimento de Sistemas
    
-##
   
   <div align="center">
   <a href="https://github.com/luluoliv">
