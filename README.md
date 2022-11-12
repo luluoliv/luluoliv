@@ -39,9 +39,12 @@ Conheça um pouco sobre mim:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luluoliv&theme=radical" alt="luluoliv" />
 </div>
  
-  ##
+ <div align="center"> 
+  <a href="https://www.instagram.com/lu0liv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.bessi.gb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-bessi-5b0160230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-   ![Snake animation](https://github.com/luluoliv/luluoliv/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/EyzRyder/EyzRyder/blob/output/github-contribution-grid-snake.svg) 
+   
 </div>
 
