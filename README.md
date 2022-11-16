@@ -1,4 +1,4 @@
-### Olá! Sou Luara Lima... 💡
+<h1 align="center"> Olá! Sou Luara Lima... 💡</h1>
  
 Conheça um pouco sobre mim:
 
