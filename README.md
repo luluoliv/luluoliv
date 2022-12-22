@@ -1,11 +1,11 @@
 <h2 align="center"> Olá! Sou Luara Lima... 💡</h2>
  
-Conheça um pouco sobre mim:
+About me:
 
- - 🏷 Pronomes: Ela/Dela
- - 📕 Cursando Ensino Médio
- - 🖥 Cursando Desenvolvimento de Sistemas
- - 📞 Contato: luaralima205@gmail.com
+ - 🏷 Pronouns: She/Her
+ - 📕 I’m in my second year of high school
+ - 🖥 Studying Systems Development
+ - 📞 Contact: luaralima205@gmail.com
    
  <div style="display: inline_block"><br>
   <img align="center" alt="Luara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@ Conheça um pouco sobre mim:
    <img align="center" alt="Luara-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-#### Aprendendo: 
+#### Learning: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luara-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Luara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,7 +23,7 @@ Conheça um pouco sobre mim:
   <img align="center" alt="Luara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-#### Pretendo aprender:
+#### I intend to learn:
 <div style="display: inline_block"><br>
   <img align="center" alt="Luara-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Luara-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
