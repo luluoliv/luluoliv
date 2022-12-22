@@ -4,7 +4,7 @@ About me:
 
  - 🏷 Pronouns: She/Her
  - 📕 I’m in my second year of high school
- - 🖥 Studying Systems Development (2/3)
+ - 🖥 Studying Systems Development at ETEC Albert Einstein (2/3)
  - 📞 Contact: luaralima205@gmail.com
    
  <div style="display: inline_block"><br>
