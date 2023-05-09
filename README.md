@@ -6,6 +6,7 @@ About me:
  - 🖥 Studying Systems Development at ETEC Albert Einstein (2/3)
  - 📞 Contact: luaralima205@gmail.com
    
+ #### Soft Skills: 
  <div style="display: inline_block"><br>
   <img align="center" alt="Luara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,15 +24,6 @@ About me:
  <img align="center" alt="Luara-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Luara-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </div>
-
-#### I intend to learn:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luara-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Luara-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Luara-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
- <img align="center" alt="Luara-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-</div>
-
 ##
 
  <div style="display: inline_block" align="center">
