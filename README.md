@@ -4,6 +4,11 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luluoliv&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luluoliv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif"/> 
+</p>
+
 
  #### Soft Skills: 
  <div style="display: inline_block"><br>
@@ -24,10 +29,6 @@
   <img align="center" alt="Luara-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </div>
 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luluoliv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img src="https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif" margin-w="15" margin-h="15"/> 
-</p>
 
 ##
 
