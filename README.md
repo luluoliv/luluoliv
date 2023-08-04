@@ -1,10 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9999&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9999&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luara+Oliveira;I'm+16+years+old;I'm+from+Brazil;I+study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luluoliv&bg_color=000000&color=ffc7e5&line=ff9494&point=7a7a7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luluoliv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
    
  #### Soft Skills: 
  <div style="display: inline_block"><br>
@@ -27,10 +30,9 @@
  
 ##
 
- <div style="display: inline_block" align="center">
-  <a href="https://github.com/luluoliv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luluoliv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluoliv&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luluoliv&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luara Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluoliv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
  
 ##
