@@ -4,8 +4,8 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luluoliv&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="./giphy-gato-computador-pesquisa.gif"/> 
  <p align="center">
+  <img src="./giphy-gato-computador-pesquisa.gif"/> 
   <img src="https://github-profile-trophy.vercel.app/?username=luluoliv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
