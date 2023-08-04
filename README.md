@@ -26,6 +26,7 @@
 
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luluoliv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif" margin-w="15" margin-h="15"/> 
 </p>
 
 ##
