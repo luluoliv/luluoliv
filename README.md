@@ -42,7 +42,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
  ![CSharp](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-
+ ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ##
 
