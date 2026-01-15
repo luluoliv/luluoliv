@@ -2,32 +2,6 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luluoliv&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <div align='center'>
-  <img src="./giphy-gato-computador-pesquisa.gif" width="185"/> 
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=luluoliv&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
-
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luluoliv&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luara Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluoliv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
- 
 ##
  
  <div align="center"> 
@@ -35,10 +9,5 @@
   <a href="https://www.linkedin.com/in/luara-lima-oliveira-9b732722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luluoliv}/count.svg" /></p> 
-<br>
-</div>
 
 
