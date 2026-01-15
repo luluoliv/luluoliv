@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9999&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9999&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luara+Oliveira;I'm+Junior+in+high+school;I'm+from+Brazil;I+study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luluoliv&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <div align='center'>
